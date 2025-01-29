@@ -46,3 +46,4 @@ __خوشحال میشم اگه این ریپو به کارتون اومد بهش
 |https://mehost.co/fa/cpanel.html|
 |https://viphost.cloud/cpanel-host-reseller/iran/|
 |https://parspack.com/blog/hosting/cpanel-host-benefits-2|
+|https://hostar.ir|
