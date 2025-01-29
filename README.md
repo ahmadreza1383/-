@@ -29,9 +29,15 @@
 |https://pasargadweb.com|
 |https://server.ir|
 |https://manaserver.ir|
-
-
-
-
-
-
+| قبل از این فقط ادرس دامنه وارد شده بعد از این ادرس کامل URl وارد شده است |https://hostiran.net/
+|https://limoo.host/hosting/linux/|
+|https://www.mobinhost.com/web-hosting/|
+|https://upweb.ir/%D9%87%D8%A7%D8%B3%D8%AA-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%DA%A9%D9%86%D8%AA%D8%B1%D9%84-%D9%BE%D9%86%D9%84-cpanel-%D8%B3%DB%8C-%D9%BE%D9%86%D9%84/|
+|https://ganje.host/blog/buy-host-from-ganje-host/|
+|https://sabinserver.com/host/iran-cpanel/|
+|https://hostiran.net/|
+|https://toshan.net/license/cpanel|
+|https://www.irpower.com/kb/login-to-cpanel|
+|https://mehost.co/fa/cpanel.html|
+|https://viphost.cloud/cpanel-host-reseller/iran/|
+|https://parspack.com/blog/hosting/cpanel-host-benefits-2|
