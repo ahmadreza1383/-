@@ -24,7 +24,11 @@
 |https://www.hannoverit.com|
 |https://www.webramz.com|
 |https://royalsite.ir|
-
+|https://iranhost.com|
+|https://www.iranserver.com|
+|https://pasargadweb.com|
+|https://server.ir|
+|https://manaserver.ir|
 
 
 
