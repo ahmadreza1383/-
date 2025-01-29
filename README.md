@@ -9,13 +9,13 @@ __خوشحال میشم اگه این ریپو به کارتون اومد بهش
 
 |hosting name|
 |--------------|
-|https://tackhost.ir|
 | عنوان سرچ شده : خرید هاست سی پنل در تاریخ 1403/11/10 |
 |https://webdade.com|
 |https://cpanel.ir|
 |https://www.سی-پنل.com/|
 |https://parsvds.com|
 |https://mihanwebhost.com|
+|https://tackhost.ir|
 |https://xzn.ir|
 |https://webpouyan.com|
 |https://bia2host.com/|
