@@ -47,3 +47,18 @@ __خوشحال میشم اگه این ریپو به کارتون اومد بهش
 |https://viphost.cloud/cpanel-host-reseller/iran/|
 |https://parspack.com/blog/hosting/cpanel-host-benefits-2|
 |https://hostar.ir|
+|https://farsitek.ir|
+|https://azaronline.com|
+|https://hostnegar.com, داون شده است|
+|https://rayanhost.com|
+|https://saba.host|
+|https://asiatech.cloud|
+|https://host.tecpro.ir|
+|https://kishtech.ir|
+|https://tikweb.ir|
+|https://itakhost.com|
+
+
+
+
+
