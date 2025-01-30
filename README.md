@@ -58,8 +58,10 @@ __خوشحال میشم اگه این ریپو به کارتون اومد بهش
 |https://kishtech.ir|
 |https://tikweb.ir|
 |https://itakhost.com|
-
-
+|https://ptco.net|
+|https://takservers.ir|
+|https://rahamtech.com|
+|https://takcloud.com|
 
 
 
